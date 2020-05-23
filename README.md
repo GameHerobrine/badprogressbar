@@ -5,3 +5,5 @@ usage:
 	python3 badbar.py
 
 2. bad progress bar launched!
+
+free to use or copy. No one will be use it.
