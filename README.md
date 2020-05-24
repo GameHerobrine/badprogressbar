@@ -1,8 +1,8 @@
-bad progressbar in python3
+#bad progressbar in python3
 
-usage:
-1. launch file badbar.py with python3:
-	python3 badbar.py
+##usage:
+1. launch file badbar.py with python3:\n
+**python3 badbar.py**
 
 2. bad progress bar launched!
 
